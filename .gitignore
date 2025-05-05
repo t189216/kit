@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### DB ###
+kit_dev.mv.db
+kit_dev.trace.db
